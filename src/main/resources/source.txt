@@ -1,0 +1,4 @@
+hello!
+this is source txt.
+没有其他说明。
+end.
